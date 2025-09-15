@@ -1,73 +1,60 @@
-# Welcome to your Lovable project
+# 🛡️ Phishing Detection System  
 
-## Project info
+A web-based application to detect phishing websites with a clean, responsive UI.  
+Built using **React, TypeScript, Vite, Tailwind CSS, and shadcn-ui**.  
 
-**URL**: https://lovable.dev/projects/0d545fb0-6e4f-4723-8553-4f0b4ed26bc1
+---
 
-## How can I edit this code?
+## 🚀 Features  
+- 🔍 Detect and analyze suspicious URLs  
+- 📊 Dashboard with detection results  
+- 🎨 Modern responsive design  
+- ⚡ Fast builds & hot reload with Vite  
+- 🛠️ Easy to extend with backend/ML models  
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 📂 Tech Stack  
+- **Vite** – Frontend build tool  
+- **React** – Component-based UI  
+- **TypeScript** – Typed JavaScript  
+- **Tailwind CSS** – Utility-first styling  
+- **shadcn/ui** – Prebuilt UI components  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0d545fb0-6e4f-4723-8553-4f0b4ed26bc1) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## ⚙️ Installation & Setup  
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to project folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🖥️ Usage
 
-**Use GitHub Codespaces**
+# Enter a website URL in the input field
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+# The system checks for phishing indicators
 
-## What technologies are used for this project?
 
-This project is built with:
+## Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33be2acd-d005-4a01-9d50-81eb4467a568" />
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+## 👨‍💻 Author
 
-Simply open [Lovable](https://lovable.dev/projects/0d545fb0-6e4f-4723-8553-4f0b4ed26bc1) and click on Share -> Publish.
+# Gudala Sambasiva
+# B.Tech CSE (AI & ML)
 
-## Can I connect a custom domain to my Lovable project?
+# 📌 GitHub: sambasivagudala369 (https://github.com/sambasivagudala369/Phishing_Detection_System)
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+# Results are displayed as Safe / Suspicious / Phishing
