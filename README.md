@@ -26,35 +26,35 @@ Built using **React, TypeScript, Vite, Tailwind CSS, and shadcn-ui**.
 ## ⚙️ Installation & Setup  
 
 
-# Clone the repository
+## Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Navigate to project folder
+## Navigate to project folder
 cd <YOUR_PROJECT_NAME>
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Start development server
+## Start development server
 npm run dev
 
 
-## 🖥️ Usage
+# 🖥️ Usage
 
-# Enter a website URL in the input field
+## Enter a website URL in the input field
 
-# The system checks for phishing indicators
+## The system checks for phishing indicators
 
 
-## Screenshots
+# Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33be2acd-d005-4a01-9d50-81eb4467a568" />
 
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-# Gudala Sambasiva
-# B.Tech CSE (AI & ML)
+## Gudala Sambasiva
+## B.Tech CSE (AI & ML)
 
-# 📌 GitHub: sambasivagudala369 (https://github.com/sambasivagudala369/Phishing_Detection_System)
+## 📌 GitHub:[https://github.com/sambasivagudala369/Staff_Management_System](https://github.com/sambasivagudala369/Phishing_Detection_System)
 
-# Results are displayed as Safe / Suspicious / Phishing
+## Results are displayed as Safe / Suspicious / Phishing
