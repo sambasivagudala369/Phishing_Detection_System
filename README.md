@@ -55,6 +55,6 @@ npm run dev
 ## Gudala Sambasiva
 ## B.Tech CSE (AI & ML)
 
-## 📌 GitHub:[sambasivagudala](https://github.com/sambasivagudala369/Phishing_Detection_System)
+## 📌 GitHub: [sambasivagudala](https://github.com/sambasivagudala369/Phishing_Detection_System)
 
 ## Results are displayed as Safe / Suspicious / Phishing
